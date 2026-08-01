@@ -1,6 +1,7 @@
 package com.example.ytclient.api
 
 import com.example.ytclient.model.SearchResponse
+import com.example.ytclient.model.TrendingResponse
 import retrofit2.http.GET
 import retrofit2.http.Query
 
